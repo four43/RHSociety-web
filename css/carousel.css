@@ -24,13 +24,18 @@ blockquote {
 	background-color: #FFF;
 }
 
+#logo {
+	margin-top: -10px;
+	margin-left: -20px;
+}
+
+.jumbotron .lead {
+	font-style: italic;
+	padding-top: 0.75em;
+}
 
 dd {
 	margin-bottom: 10px;
-}
-
-#logo {
-	margin-top: -10px;
 }
 
 
